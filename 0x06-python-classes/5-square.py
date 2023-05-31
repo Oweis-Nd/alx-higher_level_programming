@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 0-square.py byOlayemi Obafuwa
+
 """A module that defines a square """
 
 
